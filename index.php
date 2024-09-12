@@ -7,6 +7,6 @@
 </head>
 <body>
     This is my Main
-    This is my Branch 1
+    This is my Branch1
 </body>
 </html>
